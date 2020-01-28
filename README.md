@@ -11,8 +11,8 @@
 - [Author](#Author)  
 - [License](#License)       
 
-## About-Process    <div>  
-Here is a quick script to configure ALL your databases to Simple Recovery not just your User Databases, but System Databases too.
+## About-Process    <div>
+  Quickly set databases to simple recovery.
 ---
 ## SQL-Logic
 ```SQL
